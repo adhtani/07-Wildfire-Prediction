@@ -1,4 +1,4 @@
-# Wildfire-Prediction  
+# Early Wildfire Prediction
   
 **Introduction**  
   
